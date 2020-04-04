@@ -25,10 +25,10 @@ Exploring 2020 election datasets: [the reelected mayors data (excel) is here](ht
 
 ## Pourcentage de maires réélus
 
-![](france.png)
+![](/france.png)
 
 ## Autres
 
-![](regions.png)
+![](/regions.png)
 
-![](metiers.png)
+![](/metiers.png)
