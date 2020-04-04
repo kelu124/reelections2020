@@ -29,6 +29,6 @@ Exploring 2020 election datasets: [the reelected mayors data (excel) is here](ht
 
 ## Autres
 
-![](/regions.png)
+![](https://raw.githubusercontent.com/kelu124/reelections2020/master/region.png)
 
-![](/metiers.png)
+![](https://raw.githubusercontent.com/kelu124/reelections2020/master/metier.png)
