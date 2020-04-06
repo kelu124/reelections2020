@@ -1,8 +1,8 @@
 # Réélections pour les municipales 2020
 
-Exploring 2020 election datasets: [the reelected mayors data (excel) is here](https://github.com/kelu124/reelections2020/raw/master/2020_maires_reelus_clean.xls) ( [même excel, sauf les maires élus à l'unanimité](https://github.com/kelu124/reelections2020/raw/master020_maires_reelus_sauf-unanimite_clean.xls) - voir artefact "Pourcentage de maires réélus" en dessous).
+Exploring 2020 election datasets: [the reelected mayors data (excel) is here](https://github.com/kelu124/reelections2020/raw/master/2020_maires_reelus_clean.xls) ( [même excel, sauf les maires élus à l'unanimité](https://github.com/kelu124/reelections2020/raw/master/020_maires_reelus_sauf-unanimite_clean.xls) - voir artefact "Pourcentage de maires réélus" en dessous).
 
-
+Also with [contact details from the townhall](https://github.com/kelu124/reelections2020/raw/master/2020_maires_reelus_full.xls)
 
 ## __Sources (from data.gouv.fr):__
 
